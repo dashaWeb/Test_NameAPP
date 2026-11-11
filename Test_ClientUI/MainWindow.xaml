@@ -9,5 +9,7 @@
     <DockPanel LastChildFill="False">
         <Button DockPanel.Dock="Top" FontSize="20" Background="DarkCyan" Foreground="White" 
                 Padding="10" Click="Button_Click">Welcome</Button>
+        <Button DockPanel.Dock="Top" FontSize="20" Background="DarkCyan" Foreground="White" 
+        Padding="10" Click="Button_Click_1">Welcome</Button>
     </DockPanel>
 </Window>
